@@ -1,0 +1,35 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    margin: 0 auto;
+  }
+
+table {
+    width:30%
+}
+
+ol, ul {
+    margin: 0 auto;
+    width: 100px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.cor_azul {
+    background-color: blue;
+}
+
+.cor_amarelo {
+    background-color: yellow;
+}
+
+.cor_vermelho {
+    background-color: red;
+}
+
+.cor_dourado {
+    background-color: gold;
+}
